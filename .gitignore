@@ -4,3 +4,4 @@ server-macos
 server-win.exe
 server.exe
 data.db
+node_sqlite3.node
